@@ -21,7 +21,7 @@ repository               : "adhishreeapte/adhishreeapte.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : bio-photo.jpg
+  avatar           : "bio-photo.jpg"
   name             : "Adhishree Apte"
   pronouns         : "she/her"  
   bio              : "Graduate Student at IISc"
