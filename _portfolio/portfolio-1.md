@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Analysis of stem cell migration based on substrate stiffness"
+excerpt: "Summer Research Project<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
