@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Aerosol Science and Engineering, Washington University in St. Louis, 2022
+* Dual Degree (B.Tech and M.Tech) in Chemical Engineering, IIT Bombay, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug 2022 to July 2023: Control System Architect
+  * Model Based Development using Simulink for 1500W and 3500W EV controllers 
+  * Python package for automating analysis of large testing data
+  * Algorithms for thermal derating, hardware testing, tuning sensorless motor control, dynamometer operation for finding motor characteristics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Summer Intern at Unilever
+  * Simulation of dynamics (nutrient and interaction chemical diffusion) of microbial species
+  * Discretised the model and programmed on MATLAB using time and space efficient code 
+  * Surveyed existing agent based simulation packages in python, presented findings to research leadership 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Research Assistant
+  * MS Thesis research at Washington University in St. Louis
+  * Filter based measurement of aerosol optical properties using UV-Vis Spectro-photometer
+  * Analysed the data using Python (pandas, matplotlib), designed and manufactured a filter holder
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis 
+* Programming
+  * Python, R
+  * MATLAB, Julia
+  * C++
+* ANYSYS, COMSOL, OpenFoam
 
 Publications
 ======
@@ -47,18 +46,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Department Academic Mentor for sophomores in Chemical Engineering Department at IIT Bombay
+* Teaching Assistant for Advanced Reaction Engineering
+* Taught classes for improving student confidence in spoken and written English 
