@@ -1,6 +1,6 @@
 ---
 title: "Analysis of stem cell migration based on substrate stiffness"
-excerpt: "Summer Research Project<br/><img src='/images/500x300.png'>"
+excerpt: "Summer Research Project<br/><img src='/images/cellmech.png'>"
 collection: portfolio
 ---
 
