@@ -18,7 +18,7 @@ Work experience
 ======
 * Aug 2022 to July 2023: Control System Architect
   * Model Based Development using Simulink for 1500W and 3500W EV controllers 
-  * Python package for automating analysis of large testing data
+  * <a href="https://github.com/adhishreeapte/isg_scripts">Python package</a> for automating analysis of large testing data
   * Algorithms for thermal derating, hardware testing, tuning sensorless motor control, dynamometer operation for finding motor characteristics
 
 * Summer 2020: Summer Intern at Unilever
