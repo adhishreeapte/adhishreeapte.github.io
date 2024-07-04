@@ -51,4 +51,6 @@ Service and leadership
 ======
 * Department Academic Mentor for sophomores in Chemical Engineering Department at IIT Bombay
 * Teaching Assistant for Advanced Reaction Engineering
-* Taught classes for improving student confidence in spoken and written English 
+* Taught classes for improving student confidence in spoken and written English
+
+<a href="https://adhishreeapte.github.io/files/CV_Adhishree_Apte.pdf">Detailed CV</a>
