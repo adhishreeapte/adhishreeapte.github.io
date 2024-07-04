@@ -1,6 +1,6 @@
 ---
-title: "Analysis of stem cell migration based on substrate stiffness"
-excerpt: "I developed macros in ImageJ to automate analysis of large stacks of images captured under a microscope. I also prepared PDMS polymer gels of different stiffness and characterised their stiffness using buoyant force microscopy - frugal alternative to atomic force microscopy.<br/><img src='/images/pr1.png'>"
+title: "Games on a 2D grid"
+excerpt: "MATLAB based simulation of players who always co-operate and players who always defect. The chaotic patterns are developed based on the reward obtained by defectors against co-operators. <br/><img src='/images/pr3.png'>"
 collection: portfolio
 ---
 
