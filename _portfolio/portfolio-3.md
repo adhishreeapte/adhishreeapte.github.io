@@ -4,5 +4,6 @@ excerpt: "MATLAB based simulation of players who always co-operate and players w
 collection: portfolio
 ---
 
-<br/><img src='/images/poster.jpg'>
+<a href="https://adhishreeapte.github.io/files/NLD Project.pdf">Download presentation</a>
+
 
